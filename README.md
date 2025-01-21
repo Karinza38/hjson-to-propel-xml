@@ -1,4 +1,4 @@
-# A better way to build Propel with HJSON Schema
+ # A better way to build Propel with HJSON Schema
 
 This is a library to convert HJSON file to Propel XML schema.
 I always found Propel(http://propelorm.org/) schema tedious to write. This should help make it more approchable.
